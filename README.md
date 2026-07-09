@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Varunmalewar/Leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Varunmalewar/Leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Varunmalewar/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/Varunmalewar/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Varunmalewar/Leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Varunmalewar/Leetcode/tree/master/0567-permutation-in-string) |
 ## Greedy
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Varunmalewar/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Varunmalewar/Leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Varunmalewar/Leetcode/tree/master/0567-permutation-in-string) |
 ## Hash Table
