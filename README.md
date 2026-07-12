@@ -60,10 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Varunmalewar/Leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Varunmalewar/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Varunmalewar/Leetcode/tree/master/0567-permutation-in-string) |
+| [2325-decode-the-message](https://github.com/Varunmalewar/Leetcode/tree/master/2325-decode-the-message) |
 ## Hash Table
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Varunmalewar/Leetcode/tree/master/0567-permutation-in-string) |
+| [2325-decode-the-message](https://github.com/Varunmalewar/Leetcode/tree/master/2325-decode-the-message) |
 ## Sliding Window
 |  |
 | ------- |
