@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Varunmalewar/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Varunmalewar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Varunmalewar/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Two Pointers
@@ -101,5 +102,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Varunmalewar/Leetcode/tree/master/0070-climbing-stairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/Varunmalewar/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Varunmalewar/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
