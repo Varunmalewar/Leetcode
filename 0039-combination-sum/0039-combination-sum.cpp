@@ -2,9 +2,13 @@ class Solution {
 
 public:
 
+    set<vector<int>>s;
     void getsum(vector<int>&arr, int index ,vector<int>&output, int n , int target, vector<vector<int>>&ans){
         if(target == 0){
-            ans.push_back({output});
+            if(s.find(output) == s.end()){
+                ans.push_back({output});
+                s.insert(output);
+            }
             return;
         }
         if(index == n) return;
@@ -12,7 +16,7 @@ public:
 
         output.push_back(arr[index]);
         //single inclusion 
-        // getsum(arr,index+1,output,n , target-arr[index],ans);
+        getsum(arr,index+1,output,n , target-arr[index],ans);
 
         //multiple inclusion 
         getsum(arr,index ,output, n ,target - arr[index],ans);
