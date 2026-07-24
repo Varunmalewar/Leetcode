@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Varunmalewar/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0560-subarray-sum-equals-k](https://github.com/Varunmalewar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Varunmalewar/Leetcode/tree/master/0567-permutation-in-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Varunmalewar/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Varunmalewar/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Varunmalewar/Leetcode/tree/master/0090-subsets-ii) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Varunmalewar/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
