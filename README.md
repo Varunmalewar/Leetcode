@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Varunmalewar/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Varunmalewar/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Varunmalewar/Leetcode/tree/master/0031-next-permutation) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Varunmalewar/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Varunmalewar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Varunmalewar/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Varunmalewar/Leetcode/tree/master/0344-reverse-string) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Varunmalewar/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Varunmalewar/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Varunmalewar/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Varunmalewar/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Varunmalewar/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Depth-First Search
