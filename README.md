@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Varunmalewar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Varunmalewar/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Varunmalewar/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Varunmalewar/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Varunmalewar/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Varunmalewar/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Varunmalewar/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Varunmalewar/Leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Varunmalewar/Leetcode/tree/master/0088-merge-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Varunmalewar/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Varunmalewar/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## String
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Varunmalewar/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Varunmalewar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Varunmalewar/Leetcode/tree/master/0567-permutation-in-string) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Varunmalewar/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Varunmalewar/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2325-decode-the-message](https://github.com/Varunmalewar/Leetcode/tree/master/2325-decode-the-message) |
 | [2965-find-missing-and-repeated-values](https://github.com/Varunmalewar/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -220,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Varunmalewar/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Varunmalewar/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
